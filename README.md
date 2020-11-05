@@ -1,11 +1,11 @@
 # <center>Automate The Boring Stuff</center>
 
-![Python Cover](python.png)
+![Python Cover](automation.png)
 
 ## :framed_picture: Automate The Boring Stuff
 **Automation** is the creation and application of technologies to produce and deliver goods and services with minimal human intervention. The implementation of automation technologies, techniques and processes improve the efficiency, reliability, and/or speed of many tasks that were previously performed by humans.
 
-## :sparkle: My Flutter Projects
+## :sparkle: Automate The Boring Stuff
 SL | Project Name | Source
 ---|--------------|-------
 01 | Youtube Audio Downloader Python | [:octocat:](https://github.com/arnabb38/youtube-audio-downloader-python)
